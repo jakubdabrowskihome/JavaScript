@@ -1,0 +1,10 @@
+console.log('Ctrl+\ Podwójny edytor');
+console.log('F12    Pokaż definicje');
+console.log('Ctrl+G Przejdź do linii');
+console.log('F8 Przejdź do następnego błędu');
+console.log('Shift+Alt+↓/↑  Skopiuj linie w dół/góre');
+console.log('F5 Start');
+console.log('Crtl+K, Z  Tryb "ZEN"');
+console.log('Ctrl+=/ -  Oddal/Przybliż');
+console.log('Ctrl+K S   Zapisz wszystko');
+console.log('Ctrl+Shift+S');
